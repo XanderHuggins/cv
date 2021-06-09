@@ -31,16 +31,16 @@ __Bachelor of Water Resouces Engineering with Distinction, University of Guelph_
 
 ## Contributions
 ### Articles published or accepted in peer-reviewed journals
-1. Huggins, X. Gleeson, T., Eckstrand, H., Kerr, B. (2018). Streamflow Depletion Modeling: Methods for an Adaptable and Conjunctive Water Management Decision Support Tool. *Journal of the American Water Resources Association*, **54**, 1-15
-2. Diggle, R., Tait, D., Maher, D., Huggins, X., Santos, I. (2019). The role of porewater exchange as  adriver of CO2 flux to the atmosphere in a temperate estuary (Squamish, Canada). *Environmental Earth Sciences*, **78**, 1-13
+1- Huggins, X. Gleeson, T., Eckstrand, H., Kerr, B. (2018). Streamflow Depletion Modeling: Methods for an Adaptable and Conjunctive Water Management Decision Support Tool. *Journal of the American Water Resources Association*, **54**, 1-15 <br/>
+2- Diggle, R., Tait, D., Maher, D., Huggins, X., Santos, I. (2019). The role of porewater exchange as  adriver of CO2 flux to the atmosphere in a temperate estuary (Squamish, Canada). *Environmental Earth Sciences*, **78**, 1-13 <br/>
 
 ### Articles submitted 
-1. Huggins, X., Gleeson, T., Kummu, M., Zipper, S.C., Troy, T.J., Wada, Y., Famiglietti, J. (2021). Hotspots of social and ecological impacts from freshwater stress and storage loss. Submitted to *Nature Communications*.
+1- Huggins, X., Gleeson, T., Kummu, M., Zipper, S.C., Troy, T.J., Wada, Y., Famiglietti, J. (2021). Hotspots of social and ecological impacts from freshwater stress and storage loss. Submitted to *Nature Communications*. <br/>
 
 ### Conference presentations
-1. Huggins, X. Gleeson, T., Eckstrand, H., Kerr, B. (2018). Streamflow Depletion Modeling: Methods for an Adaptable and Conjunctive Water Management Decision Support Tool. **Oral** presentation at the Canadian Wate rResources Association Annual Conference. Victoria, BC. 
-2. Huggins, X., Gleeson, T., Zipper, S.C., Troy, T.J., Wada, Y., Famiglietti, J.S. (2020). Human dimensions of changing global freshwater availability. **Oral** presentation at the American Geophysical Union 2019 Fall Meeting. San Franciso, USA.
-3. Huggins, X., Gleeson, T., Kummu, M., Zipper, S.C., Troy, T.J., Wada, Y., Famiglietti, J. (2020). Sustainability hotspots of changing global freshwater availability. **Invited lighting talk** at the American Geophysical Union 2020 Fall Meeting. Online.
+1- Huggins, X. Gleeson, T., Eckstrand, H., Kerr, B. (2018). Streamflow Depletion Modeling: Methods for an Adaptable and Conjunctive Water Management Decision Support Tool. **Oral** presentation at the Canadian Wate rResources Association Annual Conference. Victoria, BC. <br/> 
+2- Huggins, X., Gleeson, T., Zipper, S.C., Troy, T.J., Wada, Y., Famiglietti, J.S. (2020). Human dimensions of changing global freshwater availability. **Oral** presentation at the American Geophysical Union 2019 Fall Meeting. San Franciso, USA. <br/>
+3- Huggins, X., Gleeson, T., Kummu, M., Zipper, S.C., Troy, T.J., Wada, Y., Famiglietti, J. (2020). Sustainability hotspots of changing global freshwater availability. **Invited lighting talk** at the American Geophysical Union 2020 Fall Meeting. Online. <br/>
 
 
 ## Scholarhips and Awards
