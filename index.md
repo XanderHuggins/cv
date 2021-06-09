@@ -72,9 +72,4 @@ One of two participating graduate students in inaugural event to bring scientist
 - CIVE 345: Fluid Mechanics (2019, 2020)
 - CIVE 440: Hydrology and Hydraulics (2020)
 - CIVE 340: Sustainable Water Resources (2019) <br/>
-
-__mean TA effectiveness score: 9.52/10 (n=47)__
-
-<!-- ### Footer
-
-Last updated: June 2021 -->
+__mean overall TA effectiveness score: 9.52/10 (n=47)__
