@@ -45,7 +45,7 @@ Diggle, R., Tait, D., Maher, D., **Huggins, X.**, Santos, I. (2019). The role of
 ## Fellowships / Positions
 `2020`
 YSSP Student Fellowship, Young Scientists Summer Program, International Institute for Applied Systems Analysis (IIASA) <br/>
-Deferred due to Covid-19 pandemic
+> Deferred due to Covid-19 pandemic
 
 ## Scholarhips and Awards
 - `2021` NSERC Alexander Graham Bell Doctoral Scholarship - CGS D3 ($105,000)
