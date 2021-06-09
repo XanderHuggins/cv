@@ -23,8 +23,8 @@ __Doctor of Philosophy, University of Victoria__
 `2013 - 2018`
 __Bachelor of Water Resouces Engineering with Distinction, University of Guelph__
 - Capstone Design: Biomimetic principles and low impact developments: A sustainable model for future community growth
-- **core design competencies: ** Watershed systems design, Urban water systems design, 
-- Soil water conservation systems design, Engineering systems analysis, Groundwater engineering
+- **core design competencies:** Watershed systems design, Urban water systems design, 
+-     Soil water conservation systems design, Engineering systems analysis, Groundwater engineering
 
 ## Contributions
 ### Publications
