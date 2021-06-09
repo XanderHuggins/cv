@@ -56,7 +56,7 @@ body {
 	font-size: 100%;
 	line-height: 1.5em;
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
-	font-family: Avenir,Verdana,sans-serif;
+	font-family: Public Sans, Helvetica,sans-serif;
 	margin-top: 1em;
 	margin-left: 1em;
 }
@@ -115,7 +115,7 @@ li ul {
 
 h1,h2,h3,h4 {
 	font-weight: 400;
-	font-family: Avenir,Cousine,Verdana,sans-serif;
+	font-family: Helvetica,Helvetica,Helvetica,sans-serif;
 	width: 80%;
 }
 
@@ -129,13 +129,13 @@ h1 {
 
 h1+p {
 	/*subtitle*/
-	font-style: italic;
-	font-size: 110%;
+	font-style: normal;
+	font-size: 105%;
 }
 
 h2 {
 	font-size: 1.1em;
-	color: #bc412b;
+	color: #31b2d6;
 	margin-top: 3em;
 	position: relative;
 	top: 1.4em;
