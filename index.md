@@ -16,15 +16,15 @@ Groundwater, complex adaptive systems, sustainability science.
 `2019 - est.2023`
 __Doctor of Philosophy, University of Victoria__
 - Research topic: **Groundwater sustainability in complex social-ecological systems**
-- Fast-tracked from MASc in May 2020
 - Co-supervised by Dr. Tom Gleeson (UVic) & Dr. Jay Famiglietti (USask)
 - Coursework average: 97%, n=5
+- Fast-track entry from MASc, May/2020
 
 `2013 - 2018`
 __Bachelor of Water Resouces Engineering with Distinction, University of Guelph__
 - Capstone Design: Biomimetic principles and low impact developments: A sustainable model for future community growth
 - **core design competencies:** Watershed systems design, Urban water systems design, 
--     Soil water conservation systems design, Engineering systems analysis, Groundwater engineering
+- Soil water conservation systems design, Engineering systems analysis, Groundwater engineering
 
 ## Contributions
 ### Publications
