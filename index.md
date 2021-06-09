@@ -2,10 +2,12 @@
 layout: cv
 title: Xander Huggins - CV
 ---
-# Xander Huggins
-> PhD candidate <br/>
-> University of Victoria | Global Institute for Water Security <br/>
-> [github](https://github.com/XanderHuggins) | [twitter](https://twitter.com/xander_huggins) | <xander.huggins@gmail.com>
+# Xander Huggins 
+---
+PhD candidate <br/> 
+University of Victoria | Global Institute for Water Security <br/> 
+[github](https://github.com/XanderHuggins) | [twitter](https://twitter.com/xander_huggins) | <xander.huggins@gmail.com>
+---
 
 ## Research interests
 
