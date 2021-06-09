@@ -20,26 +20,31 @@ Groundwater, complex adaptive systems, sustainability science.
 `2019 - est.2023`
 __Doctor of Philosophy, University of Victoria__
 - research topic: **Groundwater sustainability in complex social-ecological systems**
-- _Fast-tracked from MASc in May 2020_
+- ___Fast-tracked from MASc in May 2020___
 - Co-supervised by Dr. Tom Gleeson (UVic) & Dr. Jay Famiglietti (USask)
 - Coursework average: 97%, n=5
 
 `2013 - 2018`
 __Bachelor of Water Resouces Engineering with Distinction, University of Guelph__
-- Technical competencies: Watershed systems design, Urban water systems design, Soil water conservation systems design, Engineering systems analysis, Groundwater engineering
+- Technical competencies: 
+  - Watershed systems design
+  - Urban water systems design
+  - Soil water conservation systems design
+  - Engineering systems analysis
+  - Groundwater engineering
 - Capstone Design: Biomimetic principles and low impact developments: A sustainable model for future community growth
 
 ## Contributions
 ### Publications
-(1) Huggins, X. Gleeson, T., Eckstrand, H., Kerr, B. (2018). Streamflow Depletion Modeling: Methods for an Adaptable and Conjunctive Water Management Decision Support Tool. *Journal of the American Water Resources Association*, **54**, 1-15
+(1) Huggins, X. Gleeson, T., Eckstrand, H., Kerr, B. (2018). Streamflow Depletion Modeling: Methods for an Adaptable and Conjunctive Water Management Decision Support Tool. *Journal of the American Water Resources Association*, **54**, 1-15 <br/>
 (2) Diggle, R., Tait, D., Maher, D., Huggins, X., Santos, I. (2019). The role of porewater exchange as  adriver of CO2 flux to the atmosphere in a temperate estuary (Squamish, Canada). *Environmental Earth Sciences*, **78**, 1-13
 
 ### In review 
 (1) Huggins, X., Gleeson, T., Kummu, M., Zipper, S.C., Troy, T.J., Wada, Y., Famiglietti, J. (2021). Hotspots of social and ecological impacts from freshwater stress and storage loss. Submitted to *Nature Communications*.
 
 ### Conference presentations
-(1) Huggins, X. Gleeson, T., Eckstrand, H., Kerr, B. (2018). Streamflow Depletion Modeling: Methods for an Adaptable and Conjunctive Water Management Decision Support Tool. **Oral** presentation at the Canadian Water Resources Association Annual Conference. Victoria, BC.
-(2) Huggins, X., Gleeson, T., Zipper, S.C., Troy, T.J., Wada, Y., Famiglietti, J.S. (2020). Human dimensions of changing global freshwater availability. **Oral** presentation at the American Geophysical Union 2019 Fall Meeting. San Franciso, USA.
+(1) Huggins, X. Gleeson, T., Eckstrand, H., Kerr, B. (2018). Streamflow Depletion Modeling: Methods for an Adaptable and Conjunctive Water Management Decision Support Tool. **Oral** presentation at the Canadian Water Resources Association Annual Conference. Victoria, BC. <br/>
+(2) Huggins, X., Gleeson, T., Zipper, S.C., Troy, T.J., Wada, Y., Famiglietti, J.S. (2020). Human dimensions of changing global freshwater availability. **Oral** presentation at the American Geophysical Union 2019 Fall Meeting. San Franciso, USA. <br/>
 (3) Huggins, X., Gleeson, T., Kummu, M., Zipper, S.C., Troy, T.J., Wada, Y., Famiglietti, J. (2020). Sustainability hotspots of changing global freshwater availability. **Invited lighting talk** at the American Geophysical Union 2020 Fall Meeting. Online.
 
 ## Fellowships / Positions
@@ -73,12 +78,11 @@ __Water Day on the Hill__
 - One of two participating graduate students in inaugural event to bring scientists from across Canada to meet with parliamentarians and senior federal officials to raise awareness around water security for Canada.
 
 ## Teaching Assistance 
-- CIVE Integrating Sustainability and Anti-Racism in Curriculum
-- CIVE 445: Groundwater hydrology
-- CIVE 345: Fluid Mechanics
-- CIVE 440: Hydrology and Hydraulics
-- CIVE 340: Sustainable Water Resources
-- CIVE 345: Fluid Mechanics
+- CIVE Integrating Sustainability and Anti-Racism in Curriculum (2021)
+- CIVE 445: Groundwater hydrology (2021)
+- CIVE 345: Fluid Mechanics (2019, 2020)
+- CIVE 440: Hydrology and Hydraulics (2020)
+- CIVE 340: Sustainable Water Resources (2019) <br/>
 __mean TA effectiveness score: 9.52/10 (n=47)__
 
 <!-- ### Footer
