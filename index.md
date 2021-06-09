@@ -30,7 +30,7 @@ __Bachelor of Water Resouces Engineering with Distinction, University of Guelph_
 ### Publications
 **Huggins, X.** Gleeson, T., Eckstrand, H., Kerr, B. (2018). Streamflow Depletion Modeling: Methods for an Adaptable and Conjunctive Water Management Decision Support Tool. Journal of the American Water Resources Association, **54**, 1-15. <br/> [**[link]**](https://doi.org/10.1111/1752-1688.12659) <br/>
 
-Diggle, R., Tait, D., Maher, D., **Huggins, X.**, Santos, I. (2019). The role of porewater exchange as  adriver of CO2 flux to the atmosphere in a temperate estuary (Squamish, Canada). Environmental Earth Sciences, **78**, 1-13 <br/> [**[link]**](https://doi.org/10.1007/s12665-019-8291-3)
+Diggle, R., Tait, D., Maher, D., **Huggins, X.**, Santos, I. (2019). The role of porewater exchange as  a driver of CO2 flux to the atmosphere in a temperate estuary (Squamish, Canada). Environmental Earth Sciences, **78**, 1-13 <br/> [**[link]**](https://doi.org/10.1007/s12665-019-8291-3)
 <br/>
 ### In review 
 **Huggins, X.**, Gleeson, T., Kummu, M., Zipper, S.C., Troy, T.J., Wada, Y., Famiglietti, J. (2021). Hotspots of social and ecological impacts from freshwater stress and storage loss. Submitted to Nature Communications.
