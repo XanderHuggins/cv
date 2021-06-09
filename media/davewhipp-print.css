@@ -125,18 +125,19 @@ h1 {
 	line-height: 1em;
 	font-weight: bold;
 	position: relative;
+	top: 1.6em;
 	left: 25%;
 }
 
 h1+p {
 	/*subtitle*/
 	font-style: normal;
-	font-size: 110%;
+	font-size: 0.9em;
 }
 
 h2 {
 	font-size: 1.1em;
-	color: #2f8ea1; 
+	color: #640aff;  
 	margin-top: 2em;
 	position: relative;
 	top: 1.2em;
@@ -179,7 +180,7 @@ a:hover {
 
 em {
 	font-style: normal;
-	color: #2f8ea1
+	color: #640aff
 }
 
 strong {
@@ -190,6 +191,3 @@ strong {
 	display: none;
 	visibility: hidden;
 }
-
-
-
