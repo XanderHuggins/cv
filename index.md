@@ -6,7 +6,6 @@ title: Xander Huggins - CV
 PhD candidate <br/> 
 University of Victoria | Global Institute for Water Security <br/> 
 [github](https://github.com/XanderHuggins) | [twitter](https://twitter.com/xander_huggins) | <xander.huggins@gmail.com>
----
 
 ## Research interests
 
@@ -30,25 +29,19 @@ __Bachelor of Water Resouces Engineering with Distinction, University of Guelph_
 
 ## Contributions
 ### Publications
-- `2018` <br/>
-Huggins, X. Gleeson, T., Eckstrand, H., Kerr, B. (2018). Streamflow Depletion Modeling: Methods for an Adaptable and Conjunctive Water Management Decision Support Tool. Journal of the American Water Resources Association, **54**, 1-15. <br/> [**[link]**](https://doi.org/10.1111/1752-1688.12659) <br/>
-- `2019` <br/>
-Diggle, R., Tait, D., Maher, D., Huggins, X., Santos, I. (2019). The role of porewater exchange as  adriver of CO2 flux to the atmosphere in a temperate estuary (Squamish, Canada). Environmental Earth Sciences, **78**, 1-13 <br/> [**[link]**](https://doi.org/10.1007/s12665-019-8291-3)
+(1) Huggins, X. Gleeson, T., Eckstrand, H., Kerr, B. (2018). Streamflow Depletion Modeling: Methods for an Adaptable and Conjunctive Water Management Decision Support Tool. Journal of the American Water Resources Association, **54**, 1-15. <br/> [**[link]**](https://doi.org/10.1111/1752-1688.12659) <br/>
+(2) Diggle, R., Tait, D., Maher, D., Huggins, X., Santos, I. (2019). The role of porewater exchange as  adriver of CO2 flux to the atmosphere in a temperate estuary (Squamish, Canada). Environmental Earth Sciences, **78**, 1-13 <br/> [**[link]**](https://doi.org/10.1007/s12665-019-8291-3)
 
 ### In review 
-- `2021` <br/>
-Huggins, X., Gleeson, T., Kummu, M., Zipper, S.C., Troy, T.J., Wada, Y., Famiglietti, J. (2021). Hotspots of social and ecological impacts from freshwater stress and storage loss. Submitted to Nature Communications.
+(1) Huggins, X., Gleeson, T., Kummu, M., Zipper, S.C., Troy, T.J., Wada, Y., Famiglietti, J. (2021). Hotspots of social and ecological impacts from freshwater stress and storage loss. Submitted to Nature Communications.
 
 ### Conference presentations
-- `2018` <br/>
-Huggins, X. Gleeson, T., Eckstrand, H., Kerr, B. (2018). Streamflow Depletion Modeling: Methods for an Adaptable and Conjunctive Water Management Decision Support Tool. **Oral** presentation at the Canadian Water Resources Association Annual Conference. Victoria, BC. <br/>
-- `2019` <br/>
-Huggins, X., Gleeson, T., Zipper, S.C., Troy, T.J., Wada, Y., Famiglietti, J.S. (2020). Human dimensions of changing global freshwater availability. **Oral** presentation at the American Geophysical Union 2019 Fall Meeting. San Franciso, USA. <br/>
-- `2020` <br/>
-Huggins, X., Gleeson, T., Kummu, M., Zipper, S.C., Troy, T.J., Wada, Y., Famiglietti, J. (2020). Sustainability hotspots of changing global freshwater availability. **Invited lighting talk** at the American Geophysical Union 2020 Fall Meeting. Online.
+(1) Huggins, X. Gleeson, T., Eckstrand, H., Kerr, B. (2018). Streamflow Depletion Modeling: Methods for an Adaptable and Conjunctive Water Management Decision Support Tool. **Oral** presentation at the Canadian Water Resources Association Annual Conference. Victoria, BC. <br/>
+(2) Huggins, X., Gleeson, T., Zipper, S.C., Troy, T.J., Wada, Y., Famiglietti, J.S. (2020). Human dimensions of changing global freshwater availability. **Oral** presentation at the American Geophysical Union 2019 Fall Meeting. San Franciso, USA. <br/>
+(3) Huggins, X., Gleeson, T., Kummu, M., Zipper, S.C., Troy, T.J., Wada, Y., Famiglietti, J. (2020). Sustainability hotspots of changing global freshwater availability. **Invited lighting talk** at the American Geophysical Union 2020 Fall Meeting. Online.
 
 ## Fellowships / Positions
-- `2020` <br/>
+`2020`
 YSSP Student Fellowship, Young Scientists Summer Program, International Institute for Applied Systems Analysis (IIASA) <br/>
 Deferred due to Covid-19 pandemic
 
@@ -63,11 +56,13 @@ Deferred due to Covid-19 pandemic
 - `2018` Raymond Theodore Guther Memorial Scholarship ($2,000)
 
 ## Community invovlement
-__Managing editor, waterunderground blog `2016--`__ <br/>
+`2016--`
+__Managing editor, waterunderground blog__ <br/>
 Groundwater focused blog with >15 academic and professional contributors from 4 continents, hosted by the EGU and AGU blogospheres <br/>
 [[link to blog]](https://blogs.egu.eu/network/water-underground/)
 
-__Water Day on the Hill `2020`__ <br/>
+ `2020`
+__Water Day on the Hill__ <br/>
 One of two participating graduate students in inaugural event to bring scientists from across Canada to meet with parliamentarians and senior federal officials to raise awareness around water security in Canada. <br/>
 [[link to report]](https://water.usask.ca/documents/events/water-day-on-the-hill-report.pdf)
 
