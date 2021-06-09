@@ -59,7 +59,7 @@ YSSP Student Fellowship, Young Scientists Summer Program, International Institut
 
 ## Community invovlement
 `2016--`
-__Managing editor, waterunderground blog__ <br/>
+__Managing editor, [waterunderground blog](https://blogs.egu.eu/network/water-underground/)__ <br/>
 Groundwater focused blog with >15 academic and professional contributors from 4 continents, hosted by the EGU and AGU blogospheres <br/>
 [[link to blog]](https://blogs.egu.eu/network/water-underground/)
 
