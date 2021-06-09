@@ -23,26 +23,25 @@ __Doctor of Philosophy, University of Victoria__
 `2013 - 2018`
 __Bachelor of Water Resouces Engineering with Distinction, University of Guelph__
 - Capstone Design: Biomimetic principles and low impact developments: A sustainable model for future community growth
-- Core design competencies: 
-  - Watershed systems design, Urban water systems design, Soil water conservation systems design
-  - Engineering systems analysis, Groundwater engineering
+- **core design competencies: ** Watershed systems design, Urban water systems design, 
+- Soil water conservation systems design, Engineering systems analysis, Groundwater engineering
 
 ## Contributions
 ### Publications
-Huggins, X. Gleeson, T., Eckstrand, H., Kerr, B. (2018). Streamflow Depletion Modeling: Methods for an Adaptable and Conjunctive Water Management Decision Support Tool. Journal of the American Water Resources Association, **54**, 1-15. <br/> [**[link]**](https://doi.org/10.1111/1752-1688.12659) <br/>
+**Huggins, X.** Gleeson, T., Eckstrand, H., Kerr, B. (2018). Streamflow Depletion Modeling: Methods for an Adaptable and Conjunctive Water Management Decision Support Tool. Journal of the American Water Resources Association, **54**, 1-15. <br/> [**[link]**](https://doi.org/10.1111/1752-1688.12659) <br/>
 
-Diggle, R., Tait, D., Maher, D., Huggins, X., Santos, I. (2019). The role of porewater exchange as  adriver of CO2 flux to the atmosphere in a temperate estuary (Squamish, Canada). Environmental Earth Sciences, **78**, 1-13 <br/> [**[link]**](https://doi.org/10.1007/s12665-019-8291-3)
-
+Diggle, R., Tait, D., Maher, D., **Huggins, X.**, Santos, I. (2019). The role of porewater exchange as  adriver of CO2 flux to the atmosphere in a temperate estuary (Squamish, Canada). Environmental Earth Sciences, **78**, 1-13 <br/> [**[link]**](https://doi.org/10.1007/s12665-019-8291-3)
+<br/>
 ### In review 
-Huggins, X., Gleeson, T., Kummu, M., Zipper, S.C., Troy, T.J., Wada, Y., Famiglietti, J. (2021). Hotspots of social and ecological impacts from freshwater stress and storage loss. Submitted to Nature Communications.
-
+**Huggins, X.**, Gleeson, T., Kummu, M., Zipper, S.C., Troy, T.J., Wada, Y., Famiglietti, J. (2021). Hotspots of social and ecological impacts from freshwater stress and storage loss. Submitted to Nature Communications.
+<br/>
 ### Conference presentations
-Huggins, X. Gleeson, T., Eckstrand, H., Kerr, B. (2018). Streamflow Depletion Modeling: Methods for an Adaptable and Conjunctive Water Management Decision Support Tool. **Oral** presentation at the Canadian Water Resources Association Annual Conference. Victoria, BC. <br/>
-
-Huggins, X., Gleeson, T., Zipper, S.C., Troy, T.J., Wada, Y., Famiglietti, J.S. (2020). Human dimensions of changing global freshwater availability. **Oral** presentation at the American Geophysical Union 2019 Fall Meeting. San Franciso, USA. <br/>
-
-Huggins, X., Gleeson, T., Kummu, M., Zipper, S.C., Troy, T.J., Wada, Y., Famiglietti, J. (2020). Sustainability hotspots of changing global freshwater availability. **Invited lighting talk** at the American Geophysical Union 2020 Fall Meeting. Online.
-
+**Huggins, X**. Gleeson, T., Eckstrand, H., Kerr, B. (2018). Streamflow Depletion Modeling: Methods for an Adaptable and Conjunctive Water Management Decision Support Tool. **Oral** presentation at the Canadian Water Resources Association Annual Conference. Victoria, BC. <br/>
+<br/>
+**Huggins, X.**, Gleeson, T., Zipper, S.C., Troy, T.J., Wada, Y., Famiglietti, J.S. (2020). Human dimensions of changing global freshwater availability. **Oral** presentation at the American Geophysical Union 2019 Fall Meeting. San Franciso, USA. <br/>
+<br/>
+**Huggins, X.**, Gleeson, T., Kummu, M., Zipper, S.C., Troy, T.J., Wada, Y., Famiglietti, J. (2020). Sustainability hotspots of changing global freshwater availability. **Invited lighting talk** at the American Geophysical Union 2020 Fall Meeting. Online.
+<br/>
 ## Fellowships / Positions
 `2020`
 YSSP Student Fellowship, Young Scientists Summer Program, International Institute for Applied Systems Analysis (IIASA) <br/>
