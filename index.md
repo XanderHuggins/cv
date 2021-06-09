@@ -3,9 +3,9 @@ layout: cv
 title: Xander Huggins - CV
 ---
 # Xander Huggins
-PhD candidate <br/>
-University of Victoria | Global Institute for Water Security <br/>
-[github](https://github.com/XanderHuggins) | [twitter](https://twitter.com/xander_huggins) | [email]<xander.huggins@gmail.com>
+> PhD candidate <br/>
+> University of Victoria | Global Institute for Water Security <br/>
+> [github](https://github.com/XanderHuggins) | [twitter](https://twitter.com/xander_huggins) | <xander.huggins@gmail.com>
 
 ## Research interests
 
@@ -68,11 +68,12 @@ __Bachelor of Water Resouces Engineering with Distinction, University of Guelph_
 
 ## Community invovlement
 __Managing editor, waterunderground blog__ <br/>
-Groundwater focused blog with >15 academic and professional contributors from 4 continents, hosted by the EGU and AGU blogospheres
-- [link to blog](https://blogs.egu.eu/network/water-underground/)
+Groundwater focused blog with >15 academic and professional contributors from 4 continents, hosted by the EGU and AGU blogospheres <br/>
+[[link to blog]](https://blogs.egu.eu/network/water-underground/)
 
 __Water Day on the Hill, 2020__ <br/>
-One of two participating graduate students in inaugural event to bring scientists from across Canada to meet with parliamentarians and senior federal officials to raise awareness around water security in Canada. [REPORT](https://water.usask.ca/documents/events/water-day-on-the-hill-report.pdf)
+One of two participating graduate students in inaugural event to bring scientists from across Canada to meet with parliamentarians and senior federal officials to raise awareness around water security in Canada. <br/>
+[[link to report]](https://water.usask.ca/documents/events/water-day-on-the-hill-report.pdf)
 
 ## Teaching Assistance 
 - CIVE Integrating Sustainability and Anti-Racism in Curriculum (2021)
