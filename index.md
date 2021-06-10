@@ -90,9 +90,11 @@ One of two participating graduate students in inaugural event to bring scientist
 - `2020` Visualization: [**Water availability stripes**](http://www.xanderhuggins.ca/waterstripes.html)
 
 ## Teaching Assistance 
-- CIVE Integrating Sustainability and Anti-Racism in Curriculum (2021)
-- CIVE 445: Groundwater hydrology (2021)
-- CIVE 345: Fluid Mechanics (2019, 2020)
-- CIVE 440: Hydrology and Hydraulics (2020)
-- CIVE 340: Sustainable Water Resources (2019)
+- `2021` CIVE Integrating Sustainability and Anti-Racism Training into CIVE Curriculum 
+- `2021` CIVE 445: Groundwater hydrology 
+- `2019, 2020` CIVE 345: Fluid Mechanics 
+- `2020` CIVE 440: Hydrology and Hydraulics
+- `2019` CIVE 340: Sustainable Water Resources
 - __mean overall TA effectiveness score: 9.52/10 (n=47)__
+<br/><br/>
+![alt text](https://storage.googleapis.com/misc-sharing/87847446_644280566386370_897996860373860352_n.jpg "headshot"){ width=33% }
