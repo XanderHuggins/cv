@@ -92,7 +92,7 @@ One of two participating graduate students in inaugural event to bring scientist
 ## Teaching Assistance 
 - `2021` CIVE Integrating Sustainability and Anti-Racism Training into CIVE Curriculum 
 - `2021` CIVE 445: Groundwater hydrology 
-- `2019, 2020` CIVE 345: Fluid Mechanics 
+- `2019,2020` CIVE 345: Fluid Mechanics 
 - `2020` CIVE 440: Hydrology and Hydraulics
 - `2019` CIVE 340: Sustainable Water Resources
 - __mean overall TA effectiveness score: 9.52/10 (n=47)__
