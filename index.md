@@ -76,11 +76,22 @@ __Water Day on the Hill__ <br/>
 One of two participating graduate students in inaugural event to bring scientists from across Canada to meet with parliamentarians and senior federal officials to raise awareness around water security in Canada. <br/>
 [[link to report]](https://water.usask.ca/documents/events/water-day-on-the-hill-report.pdf)
 
+## Computing skillset
+- `R` - terra, sf, rgdal, tmap, etc., ggplot2  shiny, leaflet, etc.
+- `python` - jupyter, numpy, geopandas, rasterio, matplotlib, flopy
+- Spatial analysis: (`R`; see above), also `ArcGIS`, `QGIS`
+- Groundwater modelling:  `modflow`, `flopy`, `magnet4water` 
+- Graphics: `Affinity Designer`, `Inkscape` 
+
+## Outreach / science communication
+- `2020` featured in Circle of Blue [Perspecvie: How Does the Coronavirus Pandemic Compare to the Global Groundwater Crisis?](https://www.circleofblue.org/2020/world/perspective-how-does-the-coronavirus-crisis-compare-to-the-global-groundwater-crisis/)
+- `2020` [Water availability stripes](http://www.xanderhuggins.ca/waterstripes.html)
+
 ## Teaching Assistance 
 - CIVE Integrating Sustainability and Anti-Racism in Curriculum (2021)
 - CIVE 445: Groundwater hydrology (2021)
 - CIVE 345: Fluid Mechanics (2019, 2020)
 - CIVE 440: Hydrology and Hydraulics (2020)
 - CIVE 340: Sustainable Water Resources (2019)
-
-__mean overall TA effectiveness score: 9.52/10 (n=47)__
+- __mean overall TA effectiveness score: 9.52/10 (n=47)__
+ 
