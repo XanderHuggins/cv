@@ -2,7 +2,7 @@
 layout: cv
 title: Xander Huggins
 ---
-# Xander Huggins 
+# **Xander Huggins** 
 PhD candidate <br/> 
 University of Victoria | Global Institute for Water Security <br/> 
 [github](https://github.com/XanderHuggins) | [twitter](https://twitter.com/xander_huggins) | <xander.huggins@gmail.com>
@@ -94,4 +94,3 @@ One of two participating graduate students in inaugural event to bring scientist
 - CIVE 440: Hydrology and Hydraulics (2020)
 - CIVE 340: Sustainable Water Resources (2019)
 - __mean overall TA effectiveness score: 9.52/10 (n=47)__
- 
