@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Xander Huggins - CV
+title: Xander Huggins
 ---
 # Xander Huggins 
 PhD candidate <br/> 
