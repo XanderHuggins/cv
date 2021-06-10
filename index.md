@@ -77,15 +77,15 @@ One of two participating graduate students in inaugural event to bring scientist
 [[link to report]](https://water.usask.ca/documents/events/water-day-on-the-hill-report.pdf)
 
 ## Computing skillset
-- `R` - terra, sf, rgdal, tmap, etc., ggplot2  shiny, leaflet, etc.
-- `python` - jupyter, numpy, geopandas, rasterio, matplotlib, flopy
-- Spatial analysis: (`R`; see above), also `ArcGIS`, `QGIS`
-- Groundwater modelling:  `modflow`, `flopy`, `magnet4water` 
-- Graphics: `Affinity Designer`, `Inkscape` 
+- R - terra, sf, rgdal, tmap, etc., ggplot2  shiny, leaflet, etc.
+- python - jupyter, numpy, geopandas, rasterio, matplotlib, flopy
+- Spatial analysis: (R; see above), also ArcGIS, QGIS
+- Groundwater modelling:  modflow, flopy, magnet4water 
+- Graphics: Affinity Designer, Inkscape 
 
 ## Outreach / science communication
-- `2020` featured in Circle of Blue [Perspecvie: How Does the Coronavirus Pandemic Compare to the Global Groundwater Crisis?](https://www.circleofblue.org/2020/world/perspective-how-does-the-coronavirus-crisis-compare-to-the-global-groundwater-crisis/)
-- `2020` [Water availability stripes](http://www.xanderhuggins.ca/waterstripes.html)
+- `2020` featured in Circle of Blue: [**Perspecvie: How Does the Coronavirus Pandemic Compare to the Global Groundwater Crisis?**](https://www.circleofblue.org/2020/world/perspective-how-does-the-coronavirus-crisis-compare-to-the-global-groundwater-crisis/)
+- `2020` Visualization: [**Water availability stripes**](http://www.xanderhuggins.ca/waterstripes.html)
 
 ## Teaching Assistance 
 - CIVE Integrating Sustainability and Anti-Racism in Curriculum (2021)
