@@ -97,6 +97,3 @@ One of two participating graduate students in inaugural event to bring scientist
 - `2019` CIVE 340: Sustainable Water Resources
 - __mean overall TA effectiveness score: 9.52/10 (n=47)__
 <br/>
-
------
-<img src="https://storage.googleapis.com/misc-sharing/Xander-Huggins.jpeg" height="200"> <img src="https://storage.googleapis.com/misc-sharing/Xander-300x400.jpg" alt="headshot" height="200"> <img src="https://storage.googleapis.com/misc-sharing/49645818677_231a637944_c.jpg" alt="headshot" height="200"> <img src="https://storage.googleapis.com/misc-sharing/42710786_325553274874501_7409499196182495232_nc.jpg" alt="headshot" height="200">
