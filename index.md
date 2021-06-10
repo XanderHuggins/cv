@@ -11,19 +11,19 @@ University of Victoria | Global Institute for Water Security <br/>
 
 ## Research interests
 
-Groundwater, complex adaptive systems, sustainability science.
+Groundwater hydrology, human-water systems, sustainability science.
 
 ## Education
 
 `2019 - est.2023`
 __Doctor of Philosophy, University of Victoria__
 - Research topic: **Groundwater sustainability in complex social-ecological systems**
-- Co-supervised by Dr. Tom Gleeson (UVic) & Dr. Jay Famiglietti (USask)
+- Co-supervised by Dr. [Tom Gleeson](http://www.groundwaterscienceandsustainability.org/) (UVic) & Dr. [Jay Famiglietti](https://jayfamiglietti.com/) (USask)
 - Coursework average: 97%, n=5
 - Fast-track entry from MASc, May/2020
 
 `2013 - 2018`
-__Bachelor of Water Resouces Engineering with Distinction, University of Guelph__
+__Bachelor of Water Resources Engineering with Distinction, University of Guelph__
 - Capstone Design: Biomimetic principles and low impact developments: A sustainable model for future community growth
 - **core design competencies:** 
 - Watershed systems design, Urban water systems design, 
