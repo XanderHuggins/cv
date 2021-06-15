@@ -3,7 +3,6 @@ layout: cv
 title: Xander Huggins
 ---
 <br/>
-
 # **Xander Huggins** 
 PhD candidate <br/> 
 University of Victoria | Global Institute for Water Security <br/> 
@@ -85,6 +84,10 @@ One of two participating graduate students in inaugural event to bring scientist
 - Groundwater modelling:  modflow, flopy, magnet4water 
 - Graphics: Affinity Designer, Inkscape 
 
+## Peer review 
+- Geophysical Research Letters
+- Water Resources Research
+
 ## Outreach / science communication
 - `2020` featured in Circle of Blue: [**Perspecvie: How Does the Coronavirus Pandemic Compare to the Global Groundwater Crisis?**](https://www.circleofblue.org/2020/world/perspective-how-does-the-coronavirus-crisis-compare-to-the-global-groundwater-crisis/)
 - `2020` Visualization: [**Water availability stripes**](http://www.xanderhuggins.ca/waterstripes.html)
@@ -92,7 +95,7 @@ One of two participating graduate students in inaugural event to bring scientist
 ## Teaching Assistance 
 - `2021` CIVE Integrating Sustainability and Anti-Racism Training into CIVE Curriculum 
 - `2021` CIVE 445: Groundwater hydrology 
-- `2019,2020` CIVE 345: Fluid Mechanics 
+- `2020,2019` CIVE 345: Fluid Mechanics 
 - `2020` CIVE 440: Hydrology and Hydraulics
 - `2019` CIVE 340: Sustainable Water Resources
 - __mean overall TA effectiveness score: 9.52/10 (n=47)__
