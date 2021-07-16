@@ -33,37 +33,29 @@ __Bachelor of Water Resources Engineering with Distinction, University of Guelph
 
 **Huggins, X.** Gleeson, T., Eckstrand, H., Kerr, B. (2018). Streamflow Depletion Modeling: Methods for an Adaptable and Conjunctive Water Management Decision Support Tool. Journal of the American Water Resources Association, **54**, 1-15. [**[link]**](https://doi.org/10.1111/1752-1688.12659)
 <br/><br/>
-
 Diggle, R., Tait, D., Maher, D., **Huggins, X.**, Santos, I. (2019). The role of porewater exchange as  a driver of CO2 flux to the atmosphere in a temperate estuary (Squamish, Canada). Environmental Earth Sciences, **78**, 1-13 [**[link]**](https://doi.org/10.1007/s12665-019-8291-3)
-<br/>
-
+<br/><br/>
 ### In review 
 **Huggins, X.**, Gleeson, T., Kummu, M., Zipper, S.C., Troy, T.J., Wada, Y., Famiglietti, J. (2021). Hotspots of social and ecological impacts from freshwater stress and storage loss. Submitted to Nature Communications.
-<br/>
+<br/><br/>
 
 ### In preparation 
 **as lead author**. Data science for global social-ecological systems: a new approach for wicked groundwater sustainability challenges.
 <br/><br/>
-
 **as contributing author**. Poor correlation between large-scale environmental flows and global freshwater biodiversity: implications for water resource management and the water planetary boundary.
 <br/><br/>
-
 **as contributing author**. 2022 World Water Development Report: Chapter 7 - Groundwater and Ecosystems.
 <br/><br/>
-
 **as contributing author**. Applying the global knowledge of 21st century groundwater science and regulation: lessons, challenges and opportunities in British Columbia, Canada.
 <br/><br/>
 
 ### Conference presentations
 **Huggins, X**. Gleeson, T., Eckstrand, H., Kerr, B. (2018). Streamflow Depletion Modeling: Methods for an Adaptable and Conjunctive Water Management Decision Support Tool. **Oral** presentation at the Canadian Water Resources Association Annual Conference. Victoria, BC. <br/>
 <br/><br/>
-
 **Huggins, X.**, Gleeson, T., Zipper, S.C., Troy, T.J., Wada, Y., Famiglietti, J.S. (2019). Human dimensions of changing global freshwater availability. **Oral** presentation at the American Geophysical Union 2019 Fall Meeting. San Franciso, USA. <br/>
 <br/><br/>
-
 **Huggins, X.**, Gleeson, T., Kummu, M., Zipper, S.C., Troy, T.J., Wada, Y., Famiglietti, J. (2020). Sustainability hotspots of changing global freshwater availability. **Invited lighting talk** at the American Geophysical Union 2020 Fall Meeting. Online.
 <br/><br/>
-
 **Huggins, X.**, Gleeson, T., Famiglietti, J. (upcoming - 2021). An open-access interdisciplinary database to facilitate data science on cross-cutting global groundwater sustainability challenges. Delft International Conference on Sociohydrology.
 <br/><br/>
 
