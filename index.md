@@ -42,14 +42,17 @@ Diggle, R., Tait, D., Maher, D., **Huggins, X.**, Santos, I. (2019). The role of
 <br/>
 
 ### In preparation 
-**lead author**. Data science for global social-ecological systems: a new approach for wicked groundwater sustainability challenges.
-<br/>
+**as lead author**. Data science for global social-ecological systems: a new approach for wicked groundwater sustainability challenges.
+<br/><br/>
 
-**contributing author**. Poor correlation between large-scale environmental flows and global freshwater biodiversity: implications for water resource management and the water planetary boundary.
-<br/>
+**as contributing author**. Poor correlation between large-scale environmental flows and global freshwater biodiversity: implications for water resource management and the water planetary boundary.
+<br/><br/>
 
-**contributing author**. Applying the global knowledge of 21st century groundwater science and regulation: lessons, challenges and opportunities in British Columbia, Canada.
-<br/>
+**as contributing author**. 2022 World Water Development Report: Chapter 7 - Groundwater and Ecosystems.
+<br/><br/>
+
+**as contributing author**. Applying the global knowledge of 21st century groundwater science and regulation: lessons, challenges and opportunities in British Columbia, Canada.
+<br/><br/>
 
 ### Conference presentations
 **Huggins, X**. Gleeson, T., Eckstrand, H., Kerr, B. (2018). Streamflow Depletion Modeling: Methods for an Adaptable and Conjunctive Water Management Decision Support Tool. **Oral** presentation at the Canadian Water Resources Association Annual Conference. Victoria, BC. <br/>
