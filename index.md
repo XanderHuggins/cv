@@ -37,10 +37,16 @@ __Bachelor of Water Resouces Engineering with Distinction, University of Guelph_
 ### Articles submitted 
 1- Huggins, X., Gleeson, T., Kummu, M., Zipper, S.C., Troy, T.J., Wada, Y., Famiglietti, J. (2021). Hotspots of social and ecological impacts from freshwater stress and storage loss. Submitted to *Nature Communications*.
 
+### Articles in preparation 
+1- Lead author. Data science for global social-ecological systems: a new approach for wicked groundwater sustainability challenges
+2- Contributing author. Poor correlation between large-scale environmental flows and global freshwater biodiversity: implications for water resource management and the water planetary boundary.
+3- Contributing author. Applying global knowledge of 21st century groundwater science and regulation to British Columbia. 
+
 ### Conference presentations
 1- Huggins, X. Gleeson, T., Eckstrand, H., Kerr, B. (2018). Streamflow Depletion Modeling: Methods for an Adaptable and Conjunctive Water Management Decision Support Tool. **Oral** presentation at the Canadian Wate rResources Association Annual Conference. Victoria, BC. 
 2- Huggins, X., Gleeson, T., Zipper, S.C., Troy, T.J., Wada, Y., Famiglietti, J.S. (2020). Human dimensions of changing global freshwater availability. **Oral** presentation at the American Geophysical Union 2019 Fall Meeting. San Franciso, USA.
 3- Huggins, X., Gleeson, T., Kummu, M., Zipper, S.C., Troy, T.J., Wada, Y., Famiglietti, J. (2020). Sustainability hotspots of changing global freshwater availability. **Invited lighting talk** at the American Geophysical Union 2020 Fall Meeting. Online.
+4- Huggins, X., Gleeson, T., Famiglietti, J. (upcoming - 2021). An open-access interdisciplinary database to facilitate data science on cross-cutting global groundwater sustainability challenges. Delft International Conference On Sociohydrology.
 
 
 ## Scholarhips and Awards
@@ -63,4 +69,4 @@ Raymond Theodore Guther Memorial Scholarship ($2,000) <br/>
 
 <!-- ### Footer
 
-Last updated: June 2021 -->
+Last updated: July 2021 -->
