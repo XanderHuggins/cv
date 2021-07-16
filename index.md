@@ -2,7 +2,7 @@
 layout: cv
 title: Xander Huggins
 ---
-<br/>
+<br/><br/>
 ![written-name](https://storage.googleapis.com/misc-sharing/xh_name.png?raw=true) <br/>
 PhD candidate <br/> 
 University of Victoria | Global Institute for Water Security <br/> 
