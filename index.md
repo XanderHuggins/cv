@@ -86,11 +86,11 @@ One of two participating graduate students in inaugural event to bring scientist
 [[link to report]](https://water.usask.ca/documents/events/water-day-on-the-hill-report.pdf)
 
 ## Computing skillset
-- R - spatial=c(terra, raster, sf, rgdal, gdalUtils); viz=c(ggplot2, tmap, shiny, leaflet); tidyverse; stats=c(NbClust, randomForest, spatstat, stats, more...)
-- python=[numpy, geopandas, rasterio, matplotlib, flopy]
-- Spatial analysis: ArcGIS, QGIS - though usually everything in r/python
-- Groundwater modelling:  modflow, flopy, magnet4water 
-- Graphics: Affinity Designer, Inkscape
+- **R** - spatial=c(terra, raster, sf, rgdal, gdalUtils); viz=c(ggplot2, tmap, shiny, leaflet); tidyverse; stats=c(NbClust, randomForest, spatstat, stats, more...)
+- **python**=[numpy, geopandas, rasterio, matplotlib, flopy]
+- **Spatial analysis**: ArcGIS, QGIS - though usually everything in r/python
+- **Groundwater modelling**:  modflow, flopy, magnet4water 
+- **Graphics**: Affinity Designer, Inkscape
 
 ## Peer review 
 - Geophysical Research Letters
