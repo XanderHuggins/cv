@@ -56,16 +56,16 @@ Diggle, R., Tait, D., Maher, D., **Huggins, X.**, Santos, I. (2019). The role of
 
 ### Conference presentations
 **Huggins, X**. Gleeson, T., Eckstrand, H., Kerr, B. (2018). Streamflow Depletion Modeling: Methods for an Adaptable and Conjunctive Water Management Decision Support Tool. **Oral** presentation at the Canadian Water Resources Association Annual Conference. Victoria, BC. <br/>
-<br/>
+<br/><br/>
 
 **Huggins, X.**, Gleeson, T., Zipper, S.C., Troy, T.J., Wada, Y., Famiglietti, J.S. (2019). Human dimensions of changing global freshwater availability. **Oral** presentation at the American Geophysical Union 2019 Fall Meeting. San Franciso, USA. <br/>
-<br/>
+<br/><br/>
 
 **Huggins, X.**, Gleeson, T., Kummu, M., Zipper, S.C., Troy, T.J., Wada, Y., Famiglietti, J. (2020). Sustainability hotspots of changing global freshwater availability. **Invited lighting talk** at the American Geophysical Union 2020 Fall Meeting. Online.
-<br/>
+<br/><br/>
 
 **Huggins, X.**, Gleeson, T., Famiglietti, J. (upcoming - 2021). An open-access interdisciplinary database to facilitate data science on cross-cutting global groundwater sustainability challenges. Delft International Conference on Sociohydrology.
-<br/>
+<br/><br/>
 
 ## Fellowships / Positions
 `2020`
