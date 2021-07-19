@@ -18,8 +18,9 @@ Groundwater hydrology, human-water systems, sustainability science.
 __Doctor of Philosophy, University of Victoria__
 - Research topic: **Groundwater sustainability in complex social-ecological systems**
 - Co-supervised by Dr. [Tom Gleeson](http://www.groundwaterscienceandsustainability.org/) (UVic) & Dr. [Jay Famiglietti](https://jayfamiglietti.com/) (USask)
-- Coursework average: 97%, n=5
 - Fast-track entry from MASc, May/2020
+- Candidacy exam passed in November 2020
+- Coursework: Advanced physical hydrogeology, Computational hydrology, Groundwater and the food-energy-water nexus, Sustainability in Theory and Practice, ... 
 
 `2013 - 2018`
 __Bachelor of Water Resources Engineering with Distinction, University of Guelph__
