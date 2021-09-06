@@ -39,7 +39,7 @@ __Bachelor of Water Resources Engineering with Distinction, University of Guelph
 Diggle, R., Tait, D., Maher, D., **Huggins, X.**, Santos, I. (2019). The role of porewater exchange as  a driver of CO2 flux to the atmosphere in a temperate estuary (Squamish, Canada). Environmental Earth Sciences, **78**, 1-13 [**[link]**](https://doi.org/10.1007/s12665-019-8291-3)
 <br/><br/>
 ### In review 
-**Huggins, X.**, Gleeson, T., Kummu, M., Zipper, S.C., Troy, T.J., Wada, Y., Famiglietti, J. (2021). Hotspots of social and ecological impacts from freshwater stress and storage loss. In reviesion at Nature Communications.
+**Huggins, X.**, Gleeson, T., Kummu, M., Zipper, S.C., Troy, T.J., Wada, Y., Famiglietti, J. (2021). Hotspots of social and ecological impacts from freshwater stress and storage loss. In revision at Nature Communications.
 <br/><br/>
 Mohan, C., Gleeson, T., Famiglietti, J., Virkki, V., Kummu, M., Porkka, M., Wang-Erlandsson, L., **Huggins, X.**, Gerten, D., Jahnig, S. Poor correlation between large-scale environmental flow violations and freshwater biodiversity: implications for water resource management and the water planetary boundary. Submitted to Water Resources Research.
 <br/><br/>
