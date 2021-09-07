@@ -33,7 +33,6 @@ __Bachelor of Water Resources Engineering with Distinction, University of Guelph
 
 ## Contributions
 ### Publications
-
 **Huggins, X.** Gleeson, T., Eckstrand, H., Kerr, B. (2018). Streamflow Depletion Modeling: Methods for an Adaptable and Conjunctive Water Management Decision Support Tool. Journal of the American Water Resources Association, **54**, 1-15. [**[link]**](https://doi.org/10.1111/1752-1688.12659)
 <br/><br/>
 Diggle, R., Tait, D., Maher, D., **Huggins, X.**, Santos, I. (2019). The role of porewater exchange as  a driver of CO2 flux to the atmosphere in a temperate estuary (Squamish, Canada). Environmental Earth Sciences, **78**, 1-13 [**[link]**](https://doi.org/10.1007/s12665-019-8291-3)
@@ -43,7 +42,6 @@ Diggle, R., Tait, D., Maher, D., **Huggins, X.**, Santos, I. (2019). The role of
 <br/><br/>
 Mohan, C., Gleeson, T., Famiglietti, J., Virkki, V., Kummu, M., Porkka, M., Wang-Erlandsson, L., **Huggins, X.**, Gerten, D., Jahnig, S. Poor correlation between large-scale environmental flow violations and freshwater biodiversity: implications for water resource management and the water planetary boundary. Submitted to Water Resources Research.
 <br/><br/>
-
 ### In preparation 
 **as lead author**. Data science for global social-ecological systems: a new approach for wicked groundwater sustainability challenges.
 <br/><br/>
@@ -59,15 +57,15 @@ Mohan, C., Gleeson, T., Famiglietti, J., Virkki, V., Kummu, M., Porkka, M., Wang
 <br/><br/>
 **Huggins, X.**, Gleeson, T., Kummu, M., Zipper, S.C., Troy, T.J., Wada, Y., Famiglietti, J. (2020). Sustainability hotspots of changing global freshwater availability. **Invited lighting talk** at the American Geophysical Union 2020 Fall Meeting. Online.
 <br/><br/>
-Gleeson, T., **Huggins, X.**, Froese, T. (2021). Teaching human- and sustainability-centered design: A civil engineering design spine supported by sustainability muscles and a heart of anti-racism, equity, diversity and inclusion. Let's Talk about Teaching.
+Gleeson, T., **Huggins, X.**, Froese, T. (2021). Teaching human- and sustainability-centered design: A civil engineering design spine supported by sustainability muscles and a heart of anti-racism, equity, diversity and inclusion. **Oral** presentation (pre-recorded) for Let's Talk about Teaching.
 <br/><br/>
-**Huggins, X.**, Gleeson, T., Famiglietti, J. (2021). An open-access interdisciplinary database to facilitate data science on cross-cutting global groundwater sustainability challenges. Delft International Conference on Sociohydrology.
+**Huggins, X.**, Gleeson, T., Famiglietti, J. (2021). An open-access interdisciplinary database to facilitate data science on cross-cutting global groundwater sustainability challenges. **Oral** presentation at the Delft International Conference on Sociohydrology.
 <br/><br/>
 
 ## Fellowships / Positions
 `2020`
 YSSP Student Fellowship, Young Scientists Summer Program, International Institute for Applied Systems Analysis (IIASA) <br/>
-> Deferred due to Covid-19 pandemic
+Deferred due to Covid-19 pandemic
 
 ## Scholarhips and Awards
 - `2021` NSERC Alexander Graham Bell Doctoral Scholarship - CGS D3 ($105,000)
@@ -98,8 +96,8 @@ One of two participating graduate students in inaugural event to bring scientist
 - **Graphics**: Affinity Designer, Inkscape
 
 ## Peer review 
-- Geophysical Research Letters (n=6)
-- Water Resources Research (n=1)
+- Water Resources Research (n=6)
+- Geophysical Research Letters (n=1)
 
 ## Outreach / science communication
 - `2020` featured in Circle of Blue: [**Perspecvie: How Does the Coronavirus Pandemic Compare to the Global Groundwater Crisis?**](https://www.circleofblue.org/2020/world/perspective-how-does-the-coronavirus-crisis-compare-to-the-global-groundwater-crisis/)
