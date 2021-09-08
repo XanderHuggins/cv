@@ -96,7 +96,7 @@ One of two participating graduate students in inaugural event to bring scientist
 - **Graphics**: Affinity Designer, Inkscape
 
 ## Peer review 
-- Water Resources Research (n=6)
+- Water Resources Research (n=5)
 - Geophysical Research Letters (n=1)
 
 ## Outreach / science communication
