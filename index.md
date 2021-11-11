@@ -44,13 +44,11 @@ Diggle, R., Tait, D., Maher, D., **Huggins, X.**, Santos, I. (2019). The role of
 Mohan, C., Gleeson, T., Famiglietti, J., Virkki, V., Kummu, M., Porkka, M., Wang-Erlandsson, L., **Huggins, X.**, Gerten, D., Jahnig, S. Poor correlation between large-scale environmental flow violations and freshwater biodiversity: implications for water resource management and the water planetary boundary. Submitted to Water Resources Research.
 <br/><br/>
 ### In preparation 
-**as lead author**. Placing groundwater in complex social-ecological systems.
+**as lead author**. Groundwater interactions as complex social-ecological systems.
 <br/><br/>
 **as lead author**. A curated, interdisciplinary database for a global social-ecological system: a new resource for wicked groundwater sustainability challenges.
 <br/><br/>
 **as contributing author**. 2022 UNESCO World Water Development Report Chapter, Groundwater and Ecosystems.
-<br/><br/>
-**as contributing author**. Indirect human impacts on global protected areas through lateral groundwater flow.
 <br/><br/>
 **as contributing author**. Applying the global knowledge of 21st century groundwater science and regulation: lessons, challenges and opportunities in British Columbia, Canada.
 <br/><br/>
