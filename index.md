@@ -22,7 +22,8 @@ __Doctor of Philosophy, University of Victoria__
 - Candidacy exam passed in November 2020
 - Coursework: 
 - Advanced physical hydrogeology (97), Process-based hydrological modelling (100), 
-- Groundwater and the food-energy-water nexus (95), Sustainability in Theory and Practice (99), ... 
+- Groundwater and the food-energy-water nexus (95), Sustainability in Theory and Practice (99), 
+- Industrial metabolism (96)
 
 `2013 - 2018`
 __Bachelor of Water Resources Engineering with Distinction, University of Guelph__
@@ -43,14 +44,18 @@ Diggle, R., Tait, D., Maher, D., **Huggins, X.**, Santos, I. (2019). The role of
 Mohan, C., Gleeson, T., Famiglietti, J., Virkki, V., Kummu, M., Porkka, M., Wang-Erlandsson, L., **Huggins, X.**, Gerten, D., Jahnig, S. Poor correlation between large-scale environmental flow violations and freshwater biodiversity: implications for water resource management and the water planetary boundary. Submitted to Water Resources Research.
 <br/><br/>
 ### In preparation 
-**as lead author**. Data science for global social-ecological systems: a new approach for wicked groundwater sustainability challenges.
+**as lead author**. Placing groundwater in complex social-ecological systems.
+<br/><br/>
+**as lead author**. A curated, interdisciplinary database for a global social-ecological system: a new resource for wicked groundwater sustainability challenges.
 <br/><br/>
 **as contributing author**. 2022 UNESCO World Water Development Report Chapter, Groundwater and Ecosystems.
+<br/><br/>
+**as contributing author**. Indirect human impacts on global protected areas through lateral groundwater flow.
 <br/><br/>
 **as contributing author**. Applying the global knowledge of 21st century groundwater science and regulation: lessons, challenges and opportunities in British Columbia, Canada.
 <br/><br/>
 
-### Conference presentations
+### Presentations
 **Huggins, X**. Gleeson, T., Eckstrand, H., Kerr, B. (2018). Streamflow Depletion Modeling: Methods for an Adaptable and Conjunctive Water Management Decision Support Tool. **Oral** presentation at the Canadian Water Resources Association Annual Conference. Victoria, BC.
 <br/><br/>
 **Huggins, X.**, Gleeson, T., Zipper, S.C., Troy, T.J., Wada, Y., Famiglietti, J.S. (2019). Human dimensions of changing global freshwater availability. **Oral** presentation at the American Geophysical Union 2019 Fall Meeting. San Franciso, USA.
@@ -60,6 +65,8 @@ Mohan, C., Gleeson, T., Famiglietti, J., Virkki, V., Kummu, M., Porkka, M., Wang
 Gleeson, T., **Huggins, X.**, Froese, T. (2021). Teaching human- and sustainability-centered design: A civil engineering design spine supported by sustainability muscles and a heart of anti-racism, equity, diversity and inclusion. **Oral** presentation (pre-recorded) for Let's Talk about Teaching.
 <br/><br/>
 **Huggins, X.**, Gleeson, T., Famiglietti, J. (2021). An open-access interdisciplinary database to facilitate data science on cross-cutting global groundwater sustainability challenges. **Oral** presentation at the Delft International Conference on Sociohydrology.
+<br/><br/>
+Panel member. (2021). Panel Discussion on Water Sustainability. **Panel discussion** for University of Victoria Global Days.
 <br/><br/>
 
 ## Fellowships / Positions
