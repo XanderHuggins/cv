@@ -21,9 +21,9 @@ __Doctor of Philosophy, University of Victoria__
 - Fast-track entry from MASc, May/2020
 - Candidacy exam passed in November 2020
 - Coursework: 
-- Advanced physical hydrogeology (97), Process-based hydrological modelling (100), 
-- Groundwater and the food-energy-water nexus (95), Sustainability in Theory and Practice (99), 
-- Industrial metabolism (96)
+- ‎‎Advanced physical hydrogeology (97), Process-based hydrological modelling (100), 
+- ‎‎Groundwater and the food-energy-water nexus (95), Sustainability in Theory and Practice (99), 
+- ‎‎Industrial metabolism (96)
 
 `2013 - 2018`
 __Bachelor of Water Resources Engineering with Distinction, University of Guelph__
