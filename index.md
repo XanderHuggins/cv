@@ -21,9 +21,9 @@ __Doctor of Philosophy, University of Victoria__
 - Fast-track entry from MASc, May/2020
 - Candidacy exam passed in November 2020
 - Coursework: 
-- ‎‎Advanced physical hydrogeology (97), Process-based hydrological modelling (100), 
-- ‎‎Groundwater and the food-energy-water nexus (95), Sustainability in Theory and Practice (99), 
-- ‎‎Industrial metabolism (96)
+- Advanced physical hydrogeology (97), Process-based hydrological modelling (100), 
+- Groundwater and the food-energy-water nexus (95), Sustainability in Theory and Practice (99), 
+- Industrial metabolism (96)
 
 `2013 - 2018`
 __Bachelor of Water Resources Engineering with Distinction, University of Guelph__
@@ -39,16 +39,16 @@ __Bachelor of Water Resources Engineering with Distinction, University of Guelph
 Diggle, R., Tait, D., Maher, D., **Huggins, X.**, Santos, I. (2019). The role of porewater exchange as  a driver of CO2 flux to the atmosphere in a temperate estuary (Squamish, Canada). Environmental Earth Sciences, **78**, 1-13 [**[link]**](https://doi.org/10.1007/s12665-019-8291-3)
 <br/><br/>
 ### In review 
-**Huggins, X.**, Gleeson, T., Kummu, M., Zipper, S.C., Troy, T.J., Wada, Y., Famiglietti, J. (2021). Hotspots of social and ecological impacts from freshwater stress and storage loss. In revision at Nature Communications.
+**Huggins, X.**, Gleeson, T., Kummu, M., Zipper, S.C., Troy, T.J., Wada, Y., Famiglietti, J. (2021). Hotspots of social and ecological impacts from freshwater stress and storage loss. In final revisions at Nature Communications.
 <br/><br/>
 Mohan, C., Gleeson, T., Famiglietti, J., Virkki, V., Kummu, M., Porkka, M., Wang-Erlandsson, L., **Huggins, X.**, Gerten, D., Jahnig, S. Poor correlation between large-scale environmental flow violations and freshwater biodiversity: implications for water resource management and the water planetary boundary. Submitted to Water Resources Research.
 <br/><br/>
+Gleeson, T., **Huggins, X.**, Connor, R.,  Arrojo-Agudo, P., Vázquez Suñé, E. Groundwater and Ecosystems, Chapter 6 in The United Nations World Water Development Report 2022.
+<br/><br/>
 ### In preparation 
-**as lead author**. Groundwater interactions as complex social-ecological systems.
+**as lead author**. Groundwater in complex and adaptive social-ecological systems: new theoretical and practical approaches for groundwater sustainability. 
 <br/><br/>
 **as lead author**. A curated, interdisciplinary database for a global social-ecological system: a new resource for wicked groundwater sustainability challenges.
-<br/><br/>
-**as contributing author**. 2022 UNESCO World Water Development Report Chapter, Groundwater and Ecosystems.
 <br/><br/>
 **as contributing author**. Applying the global knowledge of 21st century groundwater science and regulation: lessons, challenges and opportunities in British Columbia, Canada.
 <br/><br/>
@@ -73,6 +73,7 @@ YSSP Student Fellowship, Young Scientists Summer Program, International Institut
 Deferred due to Covid-19 pandemic
 
 ## Scholarhips and Awards
+- `2021` Howard E. Petch Research Scholarship ($5,000)
 - `2021` NSERC Alexander Graham Bell Doctoral Scholarship - CGS D3 ($105,000)
 - `2021` University of Victoria President's Research Scholarship ($5,000)
 - `2020` University of Victoria Graduate Student Award ($3,500)
