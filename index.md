@@ -11,24 +11,6 @@ University of Victoria | Global Institute for Water Security <br/>
 ## Research interests
 Groundwater hydrology, human-water systems, sustainability science.
 
-## Education
-`2019 - est.2024`
-__Doctor of Philosophy, University of Victoria__
-- Research topic: **Groundwater sustainability in complex social-ecological systems**
-- Co-supervised by Dr. [Tom Gleeson](http://www.groundwaterscienceandsustainability.org/) (UVic) & Dr. [Jay Famiglietti](https://jayfamiglietti.com/) (USask)
-- Fast-track entry from MASc, May/2020
-- Candidacy exam passed in November 2020
-- Coursework: 
-- Advanced physical hydrogeology (97), Process-based hydrological modelling (100), 
-- Groundwater and the food-energy-water nexus (95), Sustainability in Theory and Practice (99), Industrial metabolism (96)
-
-`2013 - 2018`
-__Bachelor of Water Resources Engineering with Distinction, University of Guelph__
-- Capstone Design: Biomimetic principles and low impact developments: A sustainable model for future community growth
-- **core design competencies:** 
-- Watershed systems design, Urban water systems design, 
-- Soil water conservation systems design, Engineering systems analysis, Groundwater engineering
-
 ## Contributions
 ### Publications
 **Huggins, X.**, Gleeson, T., Kummu, M., Zipper, S.C., Troy, T.J., Wada, Y., Famiglietti, J. (In press). Hotspots for social and ecological impacts from freshwater stress and storage loss. Nature Communications. DOI forthcoming. See also: associated [**code**](https://github.com/XanderHuggins/HotspotBasins) and [**data**](https://doi.org/10.5683/SP3/SLR3GF).
@@ -67,11 +49,11 @@ Gleeson, T., **Huggins, X.**, Froese, T. (2021). Teaching human- and sustainabil
 <br/><br/>
 
 ### Invited seminar presentations/lectures
-- `2021` _Groundwater Sustainability Science_ for CIVE 445 (Groundwater Hydrology) at the University of Victoria.
+- `2021` *Groundwater Sustainability Science* for CIVE 445 (groundwater hydrology course) at the University of Victoria.
 <br/><br/>
 
 ## Fellowships/positions
-- `2020 but deferred due to COVID-19` Young Scientists Summer Program, International Institute for Applied Systems Analysis (IIASA).
+- `2020` Young Scientists Summer Program, International Institute for Applied Systems Analysis (IIASA). Deferred due to Covid-19.
 
 ## Peer review activity
 - Water Resources Research (n=5)
@@ -100,8 +82,26 @@ Gleeson, T., **Huggins, X.**, Froese, T. (2021). Teaching human- and sustainabil
 - `2021` Panel member in [**"UVic Water Research and the SDGs: A Panel Discussion"**](https://www.youtube.com/watch?v=F9d9R80BxWY) for University of Victoria Global Days.
 - `2020` featured in Circle of Blue: [**Perspecvie: How Does the Coronavirus Pandemic Compare to the Global Groundwater Crisis?**](https://www.circleofblue.org/2020/world/perspective-how-does-the-coronavirus-crisis-compare-to-the-global-groundwater-crisis/)
 - `2020` Visualization: [**Water availability stripes**](http://www.xanderhuggins.ca/waterstripes.html)
-- `2020` Water Day on the Hill <br/>. One of two participating graduate students in inaugural event to bring scientists from across Canada to meet with parliamentarians and senior federal officials to raise awareness around water security in Canada. [**[link to report]**](https://water.usask.ca/documents/events/water-day-on-the-hill-report.pdf)
+- `2020` Water Day on the Hill. One of two participating graduate students in inaugural event to bring scientists from across Canada to meet with parliamentarians and senior federal officials to raise awareness around water security in Canada. [**[link to report]**](https://water.usask.ca/documents/events/water-day-on-the-hill-report.pdf)
 - `2016-2021` Managing editor, [waterunderground blog](https://blogs.egu.eu/network/water-underground/).  Groundwater focused blog with >15 academic and professional contributors from 4 continents, hosted by the EGU and AGU blogospheres. [**[link to blog]**](https://blogs.egu.eu/network/water-underground/)
+
+## Education
+`2019 - est.2024`
+__Doctor of Philosophy, University of Victoria__
+- Research topic: **Groundwater sustainability in complex social-ecological systems**
+- Co-supervised by Dr. [Tom Gleeson](http://www.groundwaterscienceandsustainability.org/) (UVic) & Dr. [Jay Famiglietti](https://jayfamiglietti.com/) (USask)
+- Fast-track entry from MASc, May/2020
+- Candidacy exam passed in November 2020
+- Coursework: 
+- Advanced physical hydrogeology (97), Process-based hydrological modelling (100), 
+- Groundwater and the food-energy-water nexus (95), Sustainability in Theory and Practice (99), Industrial metabolism (96)
+
+`2013 - 2018`
+__Bachelor of Water Resources Engineering with Distinction, University of Guelph__
+- Capstone Design: Biomimetic principles and low impact developments: A sustainable model for future community growth
+- **core design competencies:** 
+- Watershed systems design, Urban water systems design, 
+- Soil water conservation systems design, Engineering systems analysis, Groundwater engineering
 
 ## Computing skillset
 - **R** - spatial=c(terra, raster, sf, rgdal, gdalUtils); viz=c(ggplot2, tmap, shiny, leaflet); tidyverse; stats=c(NbClust, randomForest, spatstat, stats, more...)
