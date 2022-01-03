@@ -31,7 +31,7 @@ __Bachelor of Water Resources Engineering with Distinction, University of Guelph
 
 ## Contributions
 ### Publications
-**Huggins, X.**, Gleeson, T., Kummu, M., Zipper, S.C., Troy, T.J., Wada, Y., Famiglietti, J. (In press). Hotspots of social and ecological impacts from freshwater stress and storage loss. Nature Communications. DOI forthcoming...
+**Huggins, X.**, Gleeson, T., Kummu, M., Zipper, S.C., Troy, T.J., Wada, Y., Famiglietti, J. (In press). Hotspots for social and ecological impacts from freshwater stress and storage loss. Nature Communications. DOI forthcoming...
 <br/><br/>
 Diggle, R., Tait, D., Maher, D., **Huggins, X.**, Santos, I. (2019). The role of porewater exchange as  a driver of CO2 flux to the atmosphere in a temperate estuary (Squamish, Canada). Environmental Earth Sciences, **78**, 1-13 [**[link]**](https://doi.org/10.1007/s12665-019-8291-3)
 <br/><br/>
