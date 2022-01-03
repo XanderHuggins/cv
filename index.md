@@ -6,7 +6,7 @@ title: Xander Huggins
 <img src="https://storage.googleapis.com/misc-sharing/xh-name-svg.svg" width="450"> <br/>
 PhD candidate <br/> 
 University of Victoria | Global Institute for Water Security <br/> 
-[github](https://github.com/XanderHuggins) | [twitter](https://twitter.com/xander_huggins) | <xander.huggins@gmail.com>
+[github](https://github.com/XanderHuggins) | [twitter](https://twitter.com/xander_huggins) | <xanderhuggins@uvic.ca> or <xander.huggins@gmail.com>
 
 ## Research interests
 Groundwater hydrology, human-water systems, sustainability science.
