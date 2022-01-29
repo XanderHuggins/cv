@@ -13,7 +13,7 @@ Groundwater hydrology, human-water systems, sustainability science.
 
 ## Contributions
 ### Publications
-**Huggins, X.**, Gleeson, T., Kummu, M., Zipper, S.C., Troy, T.J., Wada, Y., Famiglietti, J. (In press). Hotspots for social and ecological impacts from freshwater stress and storage loss. Nature Communications. DOI forthcoming. See also: associated [**code**](https://github.com/XanderHuggins/HotspotBasins) and [**data**](https://doi.org/10.5683/SP3/SLR3GF).
+**Huggins, X.**, Gleeson, T., Kummu, M., Zipper, S.C., Troy, T.J., Wada, Y., Famiglietti, J. (2022). Hotspots for social and ecological impacts from freshwater stress and storage loss. Nature Communications **13**, 439. [DOI: 10.1038/s41467-022-28029-w](https://www.nature.com/articles/s41467-022-28029-w). See also: associated [**code**](https://github.com/XanderHuggins/HotspotBasins) and [**data**](https://doi.org/10.5683/SP3/SLR3GF).
 <br/><br/>
 Diggle, R., Tait, D., Maher, D., **Huggins, X.**, Santos, I. (2019). The role of porewater exchange as  a driver of CO2 flux to the atmosphere in a temperate estuary (Squamish, Canada). Environmental Earth Sciences, **78**, 1-13 [**[link]**](https://doi.org/10.1007/s12665-019-8291-3)
 <br/><br/>
