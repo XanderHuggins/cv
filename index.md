@@ -14,7 +14,7 @@ Groundwater hydrology, human-water systems, sustainability science.
 ## Contributions
 ### Publications
 8\. *[preprint]* Rohde, M.M., Albano, C.M., **Huggins, X.**, et al. (2022). Mapping groundwater dependent ecosystems globally exposes the fragility of vulnerable ecosystems and communities. (preprint forthcoming) <br/><br/>
-7\. *[in review]* ^Serrano, D., ^**Huggins, X.**, Gleeson, T., et al. (2022). Overlooked risks and opportunities for global protected areas revealed by mapping groundwatersheds. (preprint forthcoming). ^ Shared first-authorshop. <br/><br/>
+7\. *[in review]* ^Serrano, D., ^**Huggins, X.**, Gleeson, T., et al. (2022). Overlooked risks and opportunities for global protected areas revealed by mapping groundwatersheds. (preprint forthcoming). ^ Shared lead-authorship. <br/><br/>
 6\. *[in review]* Curran, D., Gleeson, T., **Huggins, X.** (2022). Applying a science-forward approach to groundwater regulatory design. In review at Hydrogeology Journal. [**[link to preprint]**](https://eartharxiv.org/repository/view/3463/) <br/><br/>
 5\. *[in review]* **Huggins, X.** Gleeson, T., Castilla-Rho, J.C., Holley, C., Re, V., Famiglietti, J.S. (2022). Groundwater in complex adaptive social-ecological systems. In review at Groundwater. [**[link to preprint]**](https://eartharxiv.org/repository/view/3248/) <br/><br/>
 4\. *[in review]* Mohan, C., et al. [including X. Huggins]. (2022) Poor correlation between large-scale environmental flow violations and freshwater biodiversity: implications for water resource management and the water planetary boundary. In review at HESS. [**[link to preprint]**](https://hess.copernicus.org/preprints/hess-2022-87/) <br/><br/>
