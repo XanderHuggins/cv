@@ -27,16 +27,17 @@ Gleeson, T., **Huggins, X.**, Connor, R.,  Arrojo-Agudo, P., Vázquez Suñé, E.
 <br/><br/>
 
 ### Conference presentations
-8\.Serrano, D., **Huggins, X.**, Gleeson, T., et al. (2022). Overlooked risks and opportunities for global protected areas revealed by mapping groundwatersheds. **Invited oral** presentation at World Water Week 2022. 
-7\. **Huggins, X.**, Gleeson, T., Kummu, M., Zipper, S., Wada, Y., Troy, T., Famiglietti, J. (2022). Vulnerable basins for global prioritisation: Hotspots for social and ecological impacts from freshwater stress and freshwater storage loss. **Solicited oral** presentation at the European Geosciences Union General Assembly.
+9\.Serrano, D., **Huggins, X.**, Gleeson, T., et al. (2022). Overlooked risks and opportunities for global protected areas revealed by mapping groundwatersheds. **Invited oral** presentation at World Water Week 2022. Stockholm, Sweden. <br/><br/>
+9\.**Huggins, X.** Gleeson, T., Castilla-Rho, J.C., Holley, C., Re, V., Famiglietti, J.S. (2022). Groundwater in complex adaptive social-ecological systems. In absentia **poster** presentation at 2022 Canadian Water Resources Association National Conference. Canmore, Canada. <br/><br/>
+7\. **Huggins, X.**, Gleeson, T., Kummu, M., Zipper, S., Wada, Y., Troy, T., Famiglietti, J. (2022). Vulnerable basins for global prioritisation: Hotspots for social and ecological impacts from freshwater stress and freshwater storage loss. **Solicited oral** presentation at the European Geosciences Union General Assembly. Vienna, Austria.
 <br/><br/>
-6\. Xu, L., Famiglietti, J., Ferris, D., **Huggins, X.**, Mohan, C., Sadri, S., Sanyal, P., Wong, J. (2022). From Coarse Resolution to Realistic Resolution: GRACE as a Science Communication and Policymaking Tool for Sustainable Groundwater Management. **Oral** presentation at the European Geosciences Union General Assembly.
+6\. Xu, L., Famiglietti, J., Ferris, D., **Huggins, X.**, Mohan, C., Sadri, S., Sanyal, P., Wong, J. (2022). From Coarse Resolution to Realistic Resolution: GRACE as a Science Communication and Policymaking Tool for Sustainable Groundwater Management. **Oral** presentation at the European Geosciences Union General Assembly. Vienna, Austria.
 <br/><br/>
-5\. **Huggins, X.**, Gleeson, T., Famiglietti, J. (2021). An open-access interdisciplinary database to facilitate data science on cross-cutting global groundwater sustainability challenges. **Oral** presentation at the Delft International Conference on Sociohydrology.
+5\. **Huggins, X.**, Gleeson, T., Famiglietti, J. (2021). An open-access interdisciplinary database to facilitate data science on cross-cutting global groundwater sustainability challenges. Remote **oral** presentation at the Delft International Conference on Sociohydrology. Delft, the Netherlands.
 <br/><br/>
-4\. Gleeson, T., **Huggins, X.**, Froese, T. (2021). Teaching human- and sustainability-centered design: A civil engineering design spine supported by sustainability muscles and a heart of anti-racism, equity, diversity and inclusion. **Oral** presentation (pre-recorded) for Let's Talk about Teaching.
+4\. Gleeson, T., **Huggins, X.**, Froese, T. (2021). Teaching human- and sustainability-centered design: A civil engineering design spine supported by sustainability muscles and a heart of anti-racism, equity, diversity and inclusion. **Oral** presentation (pre-recorded) for Let's Talk about Teaching. Victoria, Canada.
 <br/><br/>
-3\. **Huggins, X.**, Gleeson, T., Kummu, M., Zipper, S.C., Troy, T.J., Wada, Y., Famiglietti, J. (2020). Sustainability hotspots of changing global freshwater availability. **Invited lighting talk** at the American Geophysical Union 2020 Fall Meeting. Online.
+3\. **Huggins, X.**, Gleeson, T., Kummu, M., Zipper, S.C., Troy, T.J., Wada, Y., Famiglietti, J. (2020). Sustainability hotspots of changing global freshwater availability. **Invited lighting talk** at the American Geophysical Union 2020 Fall Meeting. Online. San Francisco, USA.
 <br/><br/>
 2\. **Huggins, X.**, Gleeson, T., Zipper, S.C., Troy, T.J., Wada, Y., Famiglietti, J.S. (2019). Human dimensions of changing global freshwater availability. **Oral** presentation at the American Geophysical Union 2019 Fall Meeting. San Franciso, USA.
 <br/><br/>
@@ -44,11 +45,11 @@ Gleeson, T., **Huggins, X.**, Connor, R.,  Arrojo-Agudo, P., Vázquez Suñé, E.
 <br/><br/>
 
 ### Invited seminar presentations/lectures
-- `2022`*Groundwater-connected systems: A new approach for groundwater science and sustainability in social-ecological systems*. Presented to the Water and Development Research Group at Aalto University. 
-- `2022` *Groundwater-connected systems as complex adaptive social-ecological systems*. Delivered as part of IIASA's Water Security Research Group's World Water Day Meeting. 
-- `2022` *The global vulnerability of humans and ecosystems to insufficient freshwater availability*. Delivered as part of the Creating a Blue Dialogue Webinar Series: Third Annual Water Research Roundup, hosted by the POLIS Water Sustainability Project. 
-- `2022` *Engineering for sustainability in a complex world: The role of engineering in addressing grand sustainability challenges* for CIVE 400 (capstone design project course) at the University of Victoria.
-- `2021` *Groundwater Sustainability Science* for CIVE 445 (groundwater hydrology course) at the University of Victoria.
+- `2022` *Groundwater-connected systems: A new approach for groundwater science and sustainability in social-ecological systems*. Presented to the Water and Development Research Group at Aalto University. Espoo, Finland.
+- `2022` *Groundwater-connected systems as complex adaptive social-ecological systems*. Delivered as part of IIASA's Water Security Research Group's World Water Day Meeting. Vienna, Austria.
+- `2022` *The global vulnerability of humans and ecosystems to insufficient freshwater availability*. Delivered as part of the Creating a Blue Dialogue Webinar Series: Third Annual Water Research Roundup, hosted by the POLIS Water Sustainability Project. Victoria, Canada.
+- `2022` *Engineering for sustainability in a complex world: The role of engineering in addressing grand sustainability challenges* for CIVE 400 (capstone design project course) at the University of Victoria. Victoria, Canada.
+- `2021` *Groundwater Sustainability Science* for CIVE 445 (groundwater hydrology course) at the University of Victoria. Victoria, Canada.
 <br/><br/>
 
 ## Community invovlement, outreach & science communication
