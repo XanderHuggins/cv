@@ -27,6 +27,7 @@ Gleeson, T., **Huggins, X.**, Connor, R.,  Arrojo-Agudo, P., Vázquez Suñé, E.
 <br/><br/>
 
 ### Conference presentations
+8\.Serrano, D., **Huggins, X.**, Gleeson, T., et al. (2022). Overlooked risks and opportunities for global protected areas revealed by mapping groundwatersheds. **Invited oral** presentation at World Water Week 2022. 
 7\. **Huggins, X.**, Gleeson, T., Kummu, M., Zipper, S., Wada, Y., Troy, T., Famiglietti, J. (2022). Vulnerable basins for global prioritisation: Hotspots for social and ecological impacts from freshwater stress and freshwater storage loss. **Solicited oral** presentation at the European Geosciences Union General Assembly.
 <br/><br/>
 6\. Xu, L., Famiglietti, J., Ferris, D., **Huggins, X.**, Mohan, C., Sadri, S., Sanyal, P., Wong, J. (2022). From Coarse Resolution to Realistic Resolution: GRACE as a Science Communication and Policymaking Tool for Sustainable Groundwater Management. **Oral** presentation at the European Geosciences Union General Assembly.
@@ -43,6 +44,7 @@ Gleeson, T., **Huggins, X.**, Connor, R.,  Arrojo-Agudo, P., Vázquez Suñé, E.
 <br/><br/>
 
 ### Invited seminar presentations/lectures
+- `2022`*Groundwater-connected systems: A new approach for groundwater science and sustainability in social-ecological systems*. Presented to the Water and Development Research Group at Aalto University. 
 - `2022` *Groundwater-connected systems as complex adaptive social-ecological systems*. Delivered as part of IIASA's Water Security Research Group's World Water Day Meeting. 
 - `2022` *The global vulnerability of humans and ecosystems to insufficient freshwater availability*. Delivered as part of the Creating a Blue Dialogue Webinar Series: Third Annual Water Research Roundup, hosted by the POLIS Water Sustainability Project. 
 - `2022` *Engineering for sustainability in a complex world: The role of engineering in addressing grand sustainability challenges* for CIVE 400 (capstone design project course) at the University of Victoria.
