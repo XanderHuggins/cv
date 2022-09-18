@@ -45,11 +45,11 @@ Gleeson, T., **Huggins, X.**, Connor, R.,  Arrojo-Agudo, P., Vázquez Suñé, E.
 <br/><br/>
 
 ### Invited seminar presentations/lectures
-- Groundwater-connected systems: A new approach for groundwater science and sustainability in social-ecological systems. Presented to the *Water and Development Research Group* at **Aalto University** (Espoo, Finland) in August 2022.
-- Groundwater-connected systems as complex adaptive social-ecological systems. Presented to **IIASA**'s *Water Security Research Group* (Vienna, Austria) for World Water Day in March 2022.
-- The global vulnerability of humans and ecosystems to insufficient freshwater availability. Delivered as part of the **Creating a Blue Dialogue Webinar Series: Annual Water Research Roundup**, hosted by the *POLIS Water Sustainability Project* (Victoria, Canada) in March 2022.
-- Engineering for sustainability in a complex world: The role of engineering in addressing grand sustainability challenges. Presented to **CIVE 400** (capstone undergraduate civil engineering design course) at the University of Victoria (Victoria, Canada) in January 2022.
-- Groundwater Sustainability Science. Presented to **CIVE 445** (fourth year civil engineering groundwater hydrology course) at the University of Victoria (Victoria, Canada) in April 2021.
+5\. Groundwater-connected systems: A new approach for groundwater science and sustainability in social-ecological systems. Presented to the *Water and Development Research Group* at **Aalto University** (Espoo, Finland) in August 2022. <br/><br/>
+4\. Groundwater-connected systems as complex adaptive social-ecological systems. Presented to **IIASA**'s *Water Security Research Group* (Vienna, Austria) for World Water Day in March 2022. <br/><br/>
+3\.The global vulnerability of humans and ecosystems to insufficient freshwater availability. Delivered as part of the **Creating a Blue Dialogue Webinar Series: Annual Water Research Roundup**, hosted by the *POLIS Water Sustainability Project* (Victoria, Canada) in March 2022. <br/><br/>
+2\.Engineering for sustainability in a complex world: The role of engineering in addressing grand sustainability challenges. Presented to **CIVE 400** (capstone undergraduate civil engineering design course) at the University of Victoria (Victoria, Canada) in January 2022. <br/><br/>
+1\. Groundwater Sustainability Science. Presented to **CIVE 445** (fourth year civil engineering groundwater hydrology course) at the University of Victoria (Victoria, Canada) in April 2021. <br/><br/>
 <br/><br/>
 
 ## Community invovlement, outreach & science communication
