@@ -53,6 +53,7 @@ Gleeson, T., **Huggins, X.**, Connor, R.,  Arrojo-Agudo, P., Vázquez Suñé, E.
 <br/><br/>
 
 ## Community invovlement, outreach & science communication
+- `2022` Featured in the Conversation Canada: [**Ripple effect: As global freshwater basins dry up, the threat to ecosystems and communities grows**](https://theconversation.com/ripple-effect-as-global-freshwater-basins-dry-up-the-threat-to-ecosystems-and-communities-grows-187042)
 - `2021` Panel member in [**"UVic Water Research and the SDGs: A Panel Discussion"**](https://www.youtube.com/watch?v=F9d9R80BxWY) for University of Victoria Global Days.
 - `2020` featured in Circle of Blue: [**Perspecvie: How Does the Coronavirus Pandemic Compare to the Global Groundwater Crisis?**](https://www.circleofblue.org/2020/world/perspective-how-does-the-coronavirus-crisis-compare-to-the-global-groundwater-crisis/)
 - `2020` Visualization: [**Water availability stripes**](http://www.xanderhuggins.ca/waterstripes.html)
