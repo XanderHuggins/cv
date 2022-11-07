@@ -45,6 +45,7 @@ Gleeson, T., **Huggins, X.**, Connor, R.,  Arrojo-Agudo, P., Vázquez Suñé, E.
 <br/><br/>
 
 ### Invited seminar presentations/lectures
+6\. Overlooked risks and opportunities for global protected areas revealed by mapping groundwatersheds. Presented to the *Global Groundwater Group* at The Nature Conservancy (online meeting) in November 2022. <br/><br/>
 5\. Groundwater-connected systems: A new approach for groundwater science and sustainability in social-ecological systems. Presented to the *Water and Development Research Group* at **Aalto University** (Espoo, Finland) in August 2022. <br/><br/>
 4\. Groundwater-connected systems as complex adaptive social-ecological systems. Presented to **IIASA**'s *Water Security Research Group* (Vienna, Austria) for World Water Day in March 2022. <br/><br/>
 3\.The global vulnerability of humans and ecosystems to insufficient freshwater availability. Delivered as part of the **Creating a Blue Dialogue Webinar Series: Annual Water Research Roundup**, hosted by the *POLIS Water Sustainability Project* (Victoria, Canada) in March 2022. <br/><br/>
