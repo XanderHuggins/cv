@@ -16,13 +16,21 @@ Groundwater in social-ecological systems, groundwater hydrology, sustainability 
 ## Contributions
 ### Publications
 8\. *[in review]* Rohde, M.M., Albano, C.M., **Huggins, X.**, et al. (2022). Mapping groundwater dependent ecosystems globally exposes the fragility of vulnerable ecosystems and communities. (preprint forthcoming) <br/><br/>
-7\. *[in revision]* Curran, D., Gleeson, T., **Huggins, X.** (2022). Applying a science-forward approach to groundwater regulatory design. In revision at Hydrogeology Journal. [**[link to preprint]**](https://eartharxiv.org/repository/view/3463/) <br/><br/>
-6\. *[in revision]* **Huggins, X.**, Gleeson, T., Serrano, D., Zipper, S., Jehn, F., Rohde, M.M., Abell, R., Vigerstol, R., Hartmann, A. (2022). Groundwatersheds of protected areas reveal globally overlooked risks and opportunities. In revision at Nature Sustainability. [**[link to preprint]**](https://eartharxiv.org/repository/view/3605/) <br/><br/>
-5\. *[in revision]* **Huggins, X.** Gleeson, T., Castilla-Rho, J.C., Holley, C., Re, V., Famiglietti, J.S. (2022). Groundwater connections and sustainability in social-ecological systems. In review at Groundwater. [**[link to preprint]**](https://eartharxiv.org/repository/view/3248/) <br/><br/>
-4\. Mohan, C., et al. [including X. Huggins]. (2022) Poor correlation between large-scale environmental flow violations and freshwater biodiversity: implications for water resource management and the water planetary boundary. Accepted and in press at Hydrology and Earth Systems Sciences. [**[link to preprint]**](https://hess.copernicus.org/preprints/hess-2022-87/) <br/><br/>
-3\. **Huggins, X.**, Gleeson, T., Kummu, M., Zipper, S.C., Troy, T.J., Wada, Y., Famiglietti, J. (2022). Hotspots for social and ecological impacts from freshwater stress and storage loss. Nature Communications **13**, 439. [DOI: 10.1038/s41467-022-28029-w](https://www.nature.com/articles/s41467-022-28029-w). [**[link to paper]**](https://www.nature.com/articles/s41467-022-28029-w) See also: associated [**code**](https://github.com/XanderHuggins/HotspotBasins) and [**data**](https://doi.org/10.5683/SP3/SLR3GF) <br/><br/>
-2\. Diggle, R., Tait, D., Maher, D., **Huggins, X.**, Santos, I. (2019). The role of porewater exchange as  a driver of CO2 flux to the atmosphere in a temperate estuary (Squamish, Canada). Environmental Earth Sciences, **78**, 1-13 [**[link to paper]**](https://doi.org/10.1007/s12665-019-8291-3) <br/><br/>
-1\. **Huggins, X.** Gleeson, T., Eckstrand, H., Kerr, B. (2018). Streamflow Depletion Modeling: Methods for an Adaptable and Conjunctive Water Management Decision Support Tool. Journal of the American Water Resources Association, **54**, 1-15. [**[link to paper]**](https://doi.org/10.1111/1752-1688.12659) <br/> <br/>
+7\. *[in revision]* Curran, D., Gleeson, T., **Huggins, X.** (2022). Applying a science-forward approach to groundwater regulatory design. In revision at Hydrogeology Journal.<br/>
+[**[link to preprint]**](https://eartharxiv.org/repository/view/3463/) <br/><br/>
+6\. *[in revision]* **Huggins, X.** Gleeson, T., Castilla-Rho, J.C., Holley, C., Re, V., Famiglietti, J.S. (2022). Groundwater connections and sustainability in social-ecological systems. In review at Groundwater. <br/>
+[**[link to preprint]**](https://eartharxiv.org/repository/view/3248/)
+<br/><br/>
+5\. **Huggins, X.**, Gleeson, T., Serrano, D., Zipper, S., Jehn, F., Rohde, M.M., Abell, R., Vigerstol, R., Hartmann, A. (2022). Groundwatersheds of protected areas reveal globally overlooked risks and opportunities. Accepted in principle at Nature Sustainability.<br/>
+[**[link to preprint]**](https://eartharxiv.org/repository/view/3605/) <br/><br/>
+4\. Mohan, C., et al. [including X. Huggins]. (2022) Poor correlation between large-scale environmental flow violations and freshwater biodiversity: implications for water resource management and the water planetary boundary. Hydrology and Earth Systems Sciences. <br/>
+[**[link to paper]**](https://hess.copernicus.org/articles/26/6247/2022/hess-26-6247-2022.html) <br/><br/>
+3\. **Huggins, X.**, Gleeson, T., Kummu, M., Zipper, S.C., Troy, T.J., Wada, Y., Famiglietti, J. (2022). Hotspots for social and ecological impacts from freshwater stress and storage loss. Nature Communications **13**, 439. [DOI: 10.1038/s41467-022-28029-w](https://www.nature.com/articles/s41467-022-28029-w). <br/>
+[**[link to paper]**](https://www.nature.com/articles/s41467-022-28029-w) See also: associated [**code**](https://github.com/XanderHuggins/HotspotBasins) and [**data**](https://doi.org/10.5683/SP3/SLR3GF) <br/><br/>
+2\. Diggle, R., Tait, D., Maher, D., **Huggins, X.**, Santos, I. (2019). The role of porewater exchange as  a driver of CO2 flux to the atmosphere in a temperate estuary (Squamish, Canada). Environmental Earth Sciences, **78**, 1-13.<br/>
+[**[link to paper]**](https://doi.org/10.1007/s12665-019-8291-3) <br/><br/>
+1\. **Huggins, X.** Gleeson, T., Eckstrand, H., Kerr, B. (2018). Streamflow Depletion Modeling: Methods for an Adaptable and Conjunctive Water Management Decision Support Tool. Journal of the American Water Resources Association, **54**, 1-15.<br/>
+[**[link to paper]**](https://doi.org/10.1111/1752-1688.12659) <br/><br/>
 
 ### Book/Report Chapters
 Gleeson, T., **Huggins, X.**, Connor, R.,  Arrojo-Agudo, P., Vázquez Suñé, E. (2022). Groundwater and Ecosystems, Chapter 6 of UNESCO Water Development Report 2022: "Groundwater: Making the invisible visible". [**[link to chapter]**](https://unesdoc.unesco.org/ark:/48223/pf0000380742)[**[link to report]**](https://www.unwater.org/publications/un-world-water-development-report-2022/)
