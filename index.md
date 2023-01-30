@@ -22,7 +22,7 @@ Groundwater in social-ecological systems, groundwater hydrology, sustainability 
 6\. Curran, D., Gleeson, T., **Huggins, X.** (2023). Applying a science-forward approach to groundwater regulatory design. Accepted at *Hydrogeology Journal*.<br/>
 [**[link to preprint]**](https://eartharxiv.org/repository/view/3463/)
 <br/><br/>
-5\. **Huggins, X.**, Gleeson, T., Serrano, D., Zipper, S., Jehn, F., Rohde, M.M., Abell, R., Vigerstol, R., Hartmann, A. (2023). Groundwatersheds of protected areas reveal globally overlooked risks and opportunities. Accepted in principle at *Nature Sustainability.<br/>
+5\. **Huggins, X.**, Gleeson, T., Serrano, D., Zipper, S., Jehn, F., Rohde, M.M., Abell, R., Vigerstol, R., Hartmann, A. (2023). Groundwatersheds of protected areas reveal globally overlooked risks and opportunities. Accepted in principle at *Nature Sustainability*.<br/>
 [**[link to preprint]**](https://eartharxiv.org/repository/view/3605/)
 <br/><br/>
 4\. Mohan, C., et al. [including X. Huggins]. (2022) Poor correlation between large-scale environmental flow violations and freshwater biodiversity: implications for water resource management and the water planetary boundary. *Hydrology and Earth Systems Sciences*. **26**, 6247–6262. <br/>
