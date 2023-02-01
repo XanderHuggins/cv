@@ -82,11 +82,13 @@ Gleeson, T., **Huggins, X.**, Connor, R.,  Arrojo-Agudo, P., Vázquez Suñé, E.
 - `2022` Young Scientists Summer Program, International Institute for Applied Systems Analysis (IIASA). 
 
 ## Peer review activity
+Total peer reviews to date: 7
 - Water Resources Research (n=5)
 - Geophysical Research Letters (n=1)
+- Ecology and Society (n=1)
 
 ## Scholarhips/awards/recognition
-- `2023` Mikhalevich Award from the International Institute for Applied Systems Analysis, based on summer fellowship research paper
+- `2023` Mikhalevich Award, International Institute for Applied Systems Analysis (~$8,000)
 - `2023` University of Victoria President's Research Scholarship ($5,000)
 - `2022` University of Victoria President's Research Scholarship ($5,000)
 - `2021` Howard E. Petch Research Scholarship ($5,000)
